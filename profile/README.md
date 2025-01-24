@@ -18,10 +18,12 @@
 ### AI
 <div align="center">
 </div>
+<br>
 
 ### FrontEnd
 <div align="center">
 </div>
+<br>
 
 ### BackEnd
 <div align="center">
@@ -35,6 +37,7 @@
  <img src="https://img.shields.io/badge/redis-ff4438?style=for-the-badge&logo=redis&logoColor=white">
  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
+<br>
 
 ### Dev-Ops
 <div align="center">
@@ -48,6 +51,7 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 </div>
+<br>
 
 ### Collaboration Tools
 <div align="center">
