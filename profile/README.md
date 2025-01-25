@@ -69,6 +69,11 @@
 <br>
 
 ## API Docs
-![API Docs](https://github.com/user-attachments/assets/d9414295-7abe-4a2e-a0ec-e5dda65ff809)
+![API Docs1](https://github.com/user-attachments/assets/d9414295-7abe-4a2e-a0ec-e5dda65ff809)
+
+<br>
+
+![API Docs2](https://github.com/user-attachments/assets/06ac611b-a172-45c0-a809-f81b6d7e033a)
+
 
 
