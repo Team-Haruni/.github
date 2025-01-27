@@ -68,12 +68,8 @@
 
 <br>
 
-## API Docs
-![API Docs1](https://github.com/user-attachments/assets/d9414295-7abe-4a2e-a0ec-e5dda65ff809)
-
-<br>
-
-![API Docs2](https://github.com/user-attachments/assets/06ac611b-a172-45c0-a809-f81b6d7e033a)
+## 시스템 아키택처
+<img width="883" alt="시스템 아키택처" src="https://github.com/user-attachments/assets/7b30b72a-cd50-42b3-8a86-97acafaefc36" />
 
 <br>
 
@@ -83,6 +79,17 @@
  ![Flow Chart](https://github.com/user-attachments/assets/68e9d642-5061-429b-9056-251dd9c4063f)
  
 </div>
+
+<br>
+
+## API Docs
+![API Docs1](https://github.com/user-attachments/assets/d9414295-7abe-4a2e-a0ec-e5dda65ff809)
+
+<br>
+
+![API Docs2](https://github.com/user-attachments/assets/06ac611b-a172-45c0-a809-f81b6d7e033a)
+
+<br>
 
 
 <br>
