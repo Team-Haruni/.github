@@ -6,7 +6,7 @@
 <br>
 
 ## 팀원 소개
-- PM : 이예나 👑
+- PM : **이예나** 👑
 - AI : 송유찬, 박상원  
 - FrontEnd : 김기수, 이예나
 - BackEnd : 한준서
@@ -17,11 +17,20 @@
 
 ### AI
 <div align="center">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+ <br>
+ <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
 </div>
 <br>
 
 ### FrontEnd
 <div align="center">
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+ <br>
+ <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+ <img src="https://img.shields.io/badge/Metro-EF4242?style=for-the-badge&logo=Metro&logoColor=black">
 </div>
 <br>
 
@@ -32,7 +41,6 @@
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
  <br>
- <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/redis-ff4438?style=for-the-badge&logo=redis&logoColor=white">
  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
@@ -43,13 +51,8 @@
 <div align="center">
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
  <br>
- <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=for-the-badge&logo=Amazon Web Services&logoColor=white">
- <img src="https://img.shields.io/badge/AWS Route 53-8C4FFF?style=for-the-badge&logo=Amazon Route 53&logoColor=white">
- <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=black">
- <br>
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
- <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 </div>
 <br>
 
@@ -69,27 +72,6 @@
 <br>
 
 ## 시스템 아키택처
-<img width="883" alt="시스템 아키택처" src="https://github.com/user-attachments/assets/7b30b72a-cd50-42b3-8a86-97acafaefc36" />
-
-<br>
-
-## Flow Chart
-<div align="center">
- 
- ![Flow Chart](https://github.com/user-attachments/assets/68e9d642-5061-429b-9056-251dd9c4063f)
- 
-</div>
-
-<br>
-
-## API Docs
-![API Docs1](https://github.com/user-attachments/assets/d9414295-7abe-4a2e-a0ec-e5dda65ff809)
-
-<br>
-
-![API Docs2](https://github.com/user-attachments/assets/06ac611b-a172-45c0-a809-f81b6d7e033a)
-
-<br>
-
+<img width="650" alt="시스템 아키택처" src="https://github.com/user-attachments/assets/387a4946-9b40-43ed-b420-9083e0635c48" />
 
 <br>
