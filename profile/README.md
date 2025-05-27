@@ -72,6 +72,5 @@
 <br>
 
 ## 시스템 아키택처
-<img width="650" alt="시스템 아키택처" src="https://github.com/user-attachments/assets/387a4946-9b40-43ed-b420-9083e0635c48" />
-
+<img width="650" alt="시스템 아키택처" src="https://github.com/user-attachments/assets/91e44b7d-3597-483e-b46c-d4ca52fb5db1" />
 <br>
